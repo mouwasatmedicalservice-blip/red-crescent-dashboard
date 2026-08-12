@@ -1,5 +1,6 @@
 streamlit
-pdfplumber
 pandas
 folium
 streamlit-folium
+google-generativeai
+pdfplumber
